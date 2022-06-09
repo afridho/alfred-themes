@@ -1,0 +1,65 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFA7",
+        "font" : "System Light",
+        "color" : "#FFFFFF6F"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFF9E",
+        "font" : "System Light",
+        "color" : "#FFFFFF7E"
+      },
+      "backgroundSelected" : "#3333331F",
+      "text" : {
+        "size" : 19,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FFFFFF4D"
+      },
+      "iconPaddingHorizontal" : 16,
+      "roundness" : 0,
+      "paddingVertical" : 3,
+      "iconSize" : 38
+    },
+    "search" : {
+      "backgroundSelected" : "#B2D7FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 7,
+      "text" : {
+        "size" : 27,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FEFFFFFF"
+      },
+      "background" : "#FFFFFF00",
+      "roundness" : 0,
+      "paddingVertical" : 3
+    },
+    "window" : {
+      "color" : "#1B1D1E65",
+      "paddingHorizontal" : 1,
+      "width" : 670,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 0,
+      "roundness" : 14,
+      "paddingVertical" : 5
+    },
+    "credit" : "ridho",
+    "visualEffectMode" : 1,
+    "separator" : {
+      "color" : "#CD00FFFF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#00000033",
+      "thickness" : 0
+    },
+    "name" : "Modern Light"
+  }
+}
